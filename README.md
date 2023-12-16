@@ -1,4 +1,4 @@
 # mylearning-demo
 This is my first Git Repository.
 <br>
-Author - Yugandhar Lavhate
+Author - Yugandhar Lavhate (Student)
